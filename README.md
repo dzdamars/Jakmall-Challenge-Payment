@@ -9,15 +9,13 @@ How to use:
 > Challenge for front end dev position
 
 
-# Authentication : 
+# Pages : 
 
       ```
-        Superadmin :
-            Username : superadmin
-            Password : superadmin
+        Payments :
+            http://localhost:8080/#/payment
         
-        Admin :
-            Username : admin
-            Password : admin
+        Order ID :
+           http://localhost:8080/#/finish
       
       ```
