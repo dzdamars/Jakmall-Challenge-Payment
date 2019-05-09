@@ -9,13 +9,19 @@ How to use:
 > Challenge for front end dev position
 
 
-# Pages : 
+# Link Pages : 
 
-      ```
         Payments :
             http://localhost:8080/#/payment
         
         Order ID :
            http://localhost:8080/#/finish
-      
-      ```
+   
+# If any questions please contact me at : 
+
+    damar0510@gmail.com
+    Or
+    0895 6132 37215 (WA)
+    
+ 
+   
