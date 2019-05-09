@@ -10,7 +10,10 @@ How to use:
 
 
 # Link Pages : 
-
+    
+        Delivery/Index :
+            http://localhost:8080/#/
+            
         Payments :
             http://localhost:8080/#/payment
         
